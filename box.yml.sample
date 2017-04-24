@@ -7,7 +7,7 @@ provider: "virtual_box"
 # the right size (ask Ramon Tayag about it). If not, you'll
 # either need to a) resize, or find the box with the right
 # size.
-box_url: "https://cloud-images.ubuntu.com/vagrant/trusty/current/trusty-server-cloudimg-amd64-vagrant-disk1.box"
+box_url: "https://cloud-images.ubuntu.com/vagrant/trusty/current/trusty-server-cloudimg-amd64-juju-vagrant-disk1.box"
 ip: "192.168.33.10"
 memory: 2048
 cpus: 2

@@ -1,0 +1,6 @@
+---
+- name: Copy miscellaneous G5search repos
+  git: repo=git@github.com:carabao-capital/{{item}}.git dest=/{{username}}/{{item}} accept_hostkey=yes update=no
+  with_items:
+    - first-circle-app
+    - firstcircle.ph

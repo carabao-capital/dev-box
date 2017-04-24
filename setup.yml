@@ -10,3 +10,9 @@
     - zsh
     - direnv
     - imagemagick
+    - linuxbrew
+    - dev
+    - npm
+    - postgresql
+    - rvm
+    - first_circle

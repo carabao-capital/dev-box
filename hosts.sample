@@ -1,8 +1,8 @@
 [virtualbox]
-192.168.33.21 username=vagrant
+192.168.33.10 username=vagrant
 
 [digitalocean]
-192.168.33.22 username=dev
+192.168.33.10 username=dev
 
 [development:children]
 virtualbox
